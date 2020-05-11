@@ -108,3 +108,5 @@ G:\Repos\PaperCave\PaperCave_API\bin\Debug\netcoreapp3.0\PaperCave_API.pdb
 G:\Repos\PaperCave\PaperCave_API\obj\Debug\netcoreapp3.0\PaperCave_API.MvcApplicationPartsAssemblyInfo.cache
 G:\Repos\PaperCave\PaperCave_API\obj\Debug\netcoreapp3.0\PaperCave_API.dll
 G:\Repos\PaperCave\PaperCave_API\obj\Debug\netcoreapp3.0\PaperCave_API.pdb
+G:\Repos\PaperCave\PaperCave_API\bin\Debug\netcoreapp3.0\PaperCave_Models.dll
+G:\Repos\PaperCave\PaperCave_API\bin\Debug\netcoreapp3.0\PaperCave_Models.pdb

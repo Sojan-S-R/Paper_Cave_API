@@ -1,0 +1,8 @@
+G:\Repos\PaperCave\PaperCave_Models\bin\Debug\netcoreapp3.0\PaperCave_Models.deps.json
+G:\Repos\PaperCave\PaperCave_Models\bin\Debug\netcoreapp3.0\PaperCave_Models.dll
+G:\Repos\PaperCave\PaperCave_Models\bin\Debug\netcoreapp3.0\PaperCave_Models.pdb
+G:\Repos\PaperCave\PaperCave_Models\obj\Debug\netcoreapp3.0\PaperCave_Models.csprojAssemblyReference.cache
+G:\Repos\PaperCave\PaperCave_Models\obj\Debug\netcoreapp3.0\PaperCave_Models.AssemblyInfoInputs.cache
+G:\Repos\PaperCave\PaperCave_Models\obj\Debug\netcoreapp3.0\PaperCave_Models.AssemblyInfo.cs
+G:\Repos\PaperCave\PaperCave_Models\obj\Debug\netcoreapp3.0\PaperCave_Models.dll
+G:\Repos\PaperCave\PaperCave_Models\obj\Debug\netcoreapp3.0\PaperCave_Models.pdb
