@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
 
 namespace PaperCave_API.Controllers
 {
@@ -11,5 +8,16 @@ namespace PaperCave_API.Controllers
     [ApiController]
     public class HomeController : ControllerBase
     {
+        public IConfiguration Configuration { get; }
+        public HomeController(IConfiguration configuration)
+        {
+            this.Configuration = configuration;
+        }
+
+        [Route("/Get")]
+        public HttpResponse Get()
+        {
+                   
+        }
     }
 }

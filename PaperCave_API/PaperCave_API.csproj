@@ -15,6 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\PaperCave_Library\PaperCave_Library.csproj" />
     <ProjectReference Include="..\PaperCave_Models\PaperCave_Models.csproj" />
   </ItemGroup>
 
