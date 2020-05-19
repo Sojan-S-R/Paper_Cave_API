@@ -1,6 +1,6 @@
 ﻿namespace PaperCave_Models.People
 {
-    class DateModel
+    public class DateModel
     {
         public int Day { get; set; }
         public int Month { get; set; }

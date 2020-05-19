@@ -206,3 +206,5 @@ G:\Repos\PaperCave\PaperCave_API.Tests\bin\Debug\netcoreapp3.0\runtimes\win\lib\
 G:\Repos\PaperCave\PaperCave_API.Tests\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
 G:\Repos\PaperCave\PaperCave_API.Tests\bin\Debug\netcoreapp3.0\PaperCave_Library.dll
 G:\Repos\PaperCave\PaperCave_API.Tests\bin\Debug\netcoreapp3.0\PaperCave_Library.pdb
+G:\Repos\PaperCave\PaperCave_API.Tests\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Repos\PaperCave\PaperCave_API.Tests\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll

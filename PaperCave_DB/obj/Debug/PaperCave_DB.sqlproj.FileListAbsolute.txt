@@ -1,0 +1,10 @@
+G:\Repos\PaperCave\PaperCave_DB\bin\Debug\PaperCave_DB.dacpac
+G:\Repos\PaperCave\PaperCave_DB\bin\Debug\PaperCave_DB.dll
+G:\Repos\PaperCave\PaperCave_DB\bin\Debug\PaperCave_DB.pdb
+G:\Repos\PaperCave\PaperCave_DB\obj\Debug\PaperCave_DB.sqlprojAssemblyReference.cache
+G:\Repos\PaperCave\PaperCave_DB\obj\Debug\Model.xml
+G:\Repos\PaperCave\PaperCave_DB\obj\Debug\refactor.xml
+G:\Repos\PaperCave\PaperCave_DB\obj\Debug\postdeploy.sql
+G:\Repos\PaperCave\PaperCave_DB\obj\Debug\predeploy.sql
+G:\Repos\PaperCave\PaperCave_DB\obj\Debug\PaperCave_DB.dll
+G:\Repos\PaperCave\PaperCave_DB\obj\Debug\PaperCave_DB.pdb

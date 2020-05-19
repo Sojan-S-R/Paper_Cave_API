@@ -1,8 +1,10 @@
-﻿namespace PaperCave_Models.DTO
+﻿using System.Data;
+
+namespace PaperCave_Models.DTO
 {
     public class FetchOutput
     {
-        public object OutputObject { get; set; }
+        public DataSet Data { get; set; }
         public string ErrorMessage { get; set; }
     }
 }

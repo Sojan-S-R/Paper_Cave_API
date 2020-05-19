@@ -2539,6 +2539,19 @@
           "bin/placeholder/PaperCave_Library.dll": {}
         }
       },
+      "PaperCave_Mocks/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "PaperCave_Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PaperCave_Mocks.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PaperCave_Mocks.dll": {}
+        }
+      },
       "PaperCave_Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
@@ -8291,6 +8304,11 @@
       "path": "../PaperCave_Library/PaperCave_Library.csproj",
       "msbuildProject": "../PaperCave_Library/PaperCave_Library.csproj"
     },
+    "PaperCave_Mocks/1.0.0": {
+      "type": "project",
+      "path": "../PaperCave_Mocks/PaperCave_Mocks.csproj",
+      "msbuildProject": "../PaperCave_Mocks/PaperCave_Mocks.csproj"
+    },
     "PaperCave_Models/1.0.0": {
       "type": "project",
       "path": "../PaperCave_Models/PaperCave_Models.csproj",
@@ -8304,6 +8322,7 @@
       "Microsoft.Extensions.Logging.Debug >= 3.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.0.0",
       "PaperCave_Library >= 1.0.0",
+      "PaperCave_Mocks >= 1.0.0",
       "PaperCave_Models >= 1.0.0"
     ]
   },
@@ -8335,6 +8354,9 @@
           "projectReferences": {
             "G:\\Repos\\PaperCave\\PaperCave_Library\\PaperCave_Library.csproj": {
               "projectPath": "G:\\Repos\\PaperCave\\PaperCave_Library\\PaperCave_Library.csproj"
+            },
+            "G:\\Repos\\PaperCave\\PaperCave_Mocks\\PaperCave_Mocks.csproj": {
+              "projectPath": "G:\\Repos\\PaperCave\\PaperCave_Mocks\\PaperCave_Mocks.csproj"
             },
             "G:\\Repos\\PaperCave\\PaperCave_Models\\PaperCave_Models.csproj": {
               "projectPath": "G:\\Repos\\PaperCave\\PaperCave_Models\\PaperCave_Models.csproj"

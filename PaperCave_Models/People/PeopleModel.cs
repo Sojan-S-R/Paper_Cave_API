@@ -1,6 +1,6 @@
 ﻿namespace PaperCave_Models.People
 {
-    class PeopleModel
+    public class PeopleModel
     {
         public string Name { get; set; }
         public string Email { get; set; }

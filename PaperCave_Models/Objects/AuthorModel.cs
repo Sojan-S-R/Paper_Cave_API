@@ -2,7 +2,7 @@
 
 namespace PaperCave_Models.Objects
 {
-    class AuthorModel
+    public class AuthorModel
     {
         public string FirstName { get; set; }
         public string SecondName { get; set; }

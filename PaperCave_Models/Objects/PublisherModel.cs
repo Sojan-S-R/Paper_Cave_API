@@ -2,7 +2,7 @@
 
 namespace PaperCave_Models.Objects
 {
-    class PublisherModel
+    public class PublisherModel
     {
         public string PublisherId { get; set; }
         public string PublisherName { get; set; }

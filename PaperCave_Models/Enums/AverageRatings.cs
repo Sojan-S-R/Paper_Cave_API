@@ -1,6 +1,6 @@
 ﻿namespace PaperCave_Models.Enums
 {
-    enum AverageRatings
+    public enum AverageRatings
     {
         OneStar = 1,
         TwoStar = 2,

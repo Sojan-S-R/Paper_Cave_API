@@ -1,6 +1,6 @@
 ﻿namespace PaperCave_Models.People
 {
-    class AddressModel
+    public class AddressModel
     {
         public long HouseNumber { get; set; }
         public string Street { get; set; }
